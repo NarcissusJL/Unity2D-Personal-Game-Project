@@ -1,6 +1,6 @@
 # 2D Pixel Adventure Game
 
-Welcome to the 2D Pixel Adventure Game repository!
+Welcome to the 2D Pixel Adventure Game repository! You can directly play it through this URL: https://narcissusjl.itch.io/gamedemo1zuoyu
 
 ## Description
   A 2d game demo built with Unity 2D. It incorporates different elements, such as player control and animation, enemy system, attack visual feedback system, unique Items, Camera follow system, environment light system, tilemap system, audio system, UI and more. The project demonstrates the use of Unity's features and concepts to create a functional and enjoyable game.
